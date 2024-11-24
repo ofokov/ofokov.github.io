@@ -1,0 +1,21 @@
+h2 {
+    color: #adff2f;
+}
+
+h1 {
+    color: blue;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+}
+
+ul {
+    color: green;
+}
+
+a {
+    color: chocolate;
+}
